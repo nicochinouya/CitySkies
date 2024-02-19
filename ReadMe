@@ -1,0 +1,29 @@
+Project Name: CitySkies.
+
+Description: CitySkies is a weather forecasting tool designed for travelers. Easily plan your trips by accessing current and future weather conditions for multiple cities. With a simple interface and intuitive design, CitySkies provides essential weather information including temperature, humidity, wind speed, and forecasts for up to 5 days ahead. Never get caught unprepared on your travels again with CitySkies.
+
+Installation: Opens from Web Browser.
+
+Usage: Guidance on how to use the application, including any necessary commands or steps.
+
+Technologies Used: Java Script, Css, HTML
+                   Open Weather Map API
+
+Features: 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity with a history function.
+
+Roadmap: Future enhancements User Authentication: 
+Implement user authentication to allow users to create accounts, save their favorite cities, and personalize their  experience.
+Location-Based Suggestions: Integrate geolocation services to suggest nearby cities based on the user's current location.
+Weather Alerts: Provide notifications or alerts for severe weather conditions such as storms, hurricanes, or extreme temperatures for saved or searched cities.
+Customizable Dashboard: Allow users to customize their dashboard layout, choose which weather parameters to display, and set preferences for units (e.g., Celsius vs. Fahrenheit).
+Social Sharing: Enable users to share weather forecasts or their travel plans with friends and family via social media platforms.
+Interactive Maps: Incorporate interactive maps to visualize weather patterns, display city locations, and provide a more immersive user experience.
+Multi-Language Support: Add support for multiple languages to make the application accessible to users worldwide.
+Weather API Integration: Integrate additional weather APIs to improve data accuracy, expand coverage to more cities, or provide specialized forecasts (e.g., marine weather).
+Accessibility Improvements: Ensure that the application is accessible to users with disabilities by following accessibility standards and implementing features such as screen reader support and keyboard navigation..
+
+Contributing: Got advice and hints from youtube.com, developrt.mozilla.org smd study material at UT bootcamp study material
+
+Credits:
+
+Contact: If Users have questions or need support reach out to https://github.com/nicochinouya
