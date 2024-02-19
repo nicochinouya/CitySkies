@@ -4,8 +4,6 @@ Description: CitySkies is a weather forecasting tool designed for travelers. Eas
 
 Installation: Opens from Web Browser.
 
-Usage: Guidance on how to use the application, including any necessary commands or steps.
-
 Technologies Used: Java Script, Css, HTML
                    Open Weather Map API
 
@@ -23,7 +21,5 @@ Weather API Integration: Integrate additional weather APIs to improve data accur
 Accessibility Improvements: Ensure that the application is accessible to users with disabilities by following accessibility standards and implementing features such as screen reader support and keyboard navigation..
 
 Contributing: Got advice and hints from youtube.com, developrt.mozilla.org smd study material at UT bootcamp study material
-
-Credits:
 
 Contact: If Users have questions or need support reach out to https://github.com/nicochinouya
