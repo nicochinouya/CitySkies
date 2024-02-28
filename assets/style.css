@@ -1,3 +1,16 @@
+h1 {
+  background: violet;
+  font-size: 1.75rem;
+  text-align: center;
+  padding: 18px 0;
+  color: #6a3030;
+  border-radius: 10px;
+} @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   background: #E3F2FD;
@@ -7,8 +20,8 @@ body {
   flex-direction: column;
   align-items: center;
 };
-}
-#weather-info {
+
+#get-weather {
   margin-top: 20px;
 }
 .forecast {
@@ -18,11 +31,17 @@ body {
 }
 .forecast-item {
   flex-basis: 18%;
+  color: #fff;
+  padding: 18px 16px;
+  list-style: none;
+  width: calc(20% - 15px);
+  background: #9DC8FB;
+  border-radius: 50%;
   text-align: center;
 }
 button {
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #81bc83;
   color: white;
   border: none;
   border-radius: 5px;
@@ -30,3 +49,5 @@ button {
 }
 button:hover {
   background-color: #45a049;
+  transition: 0.2s ease
+}
